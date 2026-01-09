@@ -1,0 +1,10 @@
+{
+  "version": "1.0.4",
+  "versionCode": 4,
+  "downloadUrl": "https://github.com/Youra-Projects/youra-app/releases/download/v1.0.4/youra-v1.0.4.apk",
+  "changelog": "• Initial release\n• Anime streaming\n• Download episodes\n• Bookmark favorites",
+  "forceUpdate": false,
+  "minVersion": "1.0.0",
+  "fileSize": 45000000,
+  "releaseDate": "2026-01-09T00:00:00Z"
+}
