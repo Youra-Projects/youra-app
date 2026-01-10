@@ -1,10 +1,10 @@
 {
-  "version": "1.0.5",
+  "version": "1.1.2",
   "versionCode": 4,
-  "downloadUrl": "https://github.com/Youra-Projects/youra-app/releases/download/v1.0.5/app-release-1.0.5+4.apk",
-  "changelog": "• Bug fixes\n• Performance improvements",
+  "downloadUrl": "https://github.com/Youra-Projects/youra-app/releases/download/v1.1.2/app-release-1.1.2.apk",
+  "changelog": "• Add Notification (If you subscribe to the series)\n• Fix Home\n• Fix Explore\n• Bug fixes\n• Performance improvements",
   "forceUpdate": false,
   "minVersion": "1.0.0",
   "fileSize": 45000000,
-  "releaseDate": "2026-01-10T00:00:00Z"
+  "releaseDate": "2026-01-10T00:18:00Z"
 }
